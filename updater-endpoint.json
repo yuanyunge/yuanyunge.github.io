@@ -1,19 +1,10 @@
 {
   "version": "0.0.5",
   "notes": "Test version",
-  "pub_date": "",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS3kvOVJyYWFxbHZieVVJOC9MQ2lzRklDVnlQSldMR09TN1R2MUhXMlVrYkJGUUZlMkpqaUVVcjJ2M0Y3YllyK29hZlhabmdpc3h2c1VTRmltM1ZlWm5EV0M0OFRQOGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3MzIyOTg2CWZpbGU6TnV4dG9yXzAuMC41X3g2NC1zZXR1cC5leGUKdFV4VEU4Nk10TEhpNGYvRzFweTNvdnViK0Z4NHNxN0pkRjl6cjZ3Z09KK1pxaTdjUXNRYUVNN20vMFE1NG1ETWNYbm84djl4b2MycXlFQ1RzcERWQ0E9PQo=",
       "url": "https://yuanyunge.github.io/releases/download/0.0.5/Nuxtor_0.0.5_x64-setup.zip"
-    },
-    "darwin-x86_64": {
-      "signature": "",
-      "url": ""
     }
   }
 }
