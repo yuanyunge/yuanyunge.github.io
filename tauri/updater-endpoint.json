@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "notes": "Test version",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaWxyOTFYSzVFQm5hNm1BTVN6ODUxOWdPZEFNZldlSGoxLytucFJyY0lrT3JsbEVqYUpnbTVUeHM5TjQ4Y1lMbHhuSFRteHhvSkdRM0xVbXJVY0FoTFJIOVVkMEEwWXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NDA1NDU5CWZpbGU6dGF1cmktYXBwXzAuMS4wX3g2NF9lbi1VUy5tc2kKcjZzMW8yUm5xZTFlOXlFVVdjRG1lbVEyV09JMTY3WVdjbFMyT1hHOHROS0dUMGtjbXdrY01IVGtTQ2F4UFF2MkdGc0pON3d4TzFiTkJXRVNzcS9TQ2c9PQo=",
+      "url": "https://yuanyunge.github.io/tauri/releases/download/0.1.0/tauri-app_0.1.0_x64_en-US.zip"
+    }
+  }
+}
