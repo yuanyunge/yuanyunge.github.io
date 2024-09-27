@@ -1,10 +1,10 @@
 {
-  "version": "0.1.9",
-  "notes": "Test version",
+  "version": "0.0.2",
+  "notes": "last version",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMitXY2szUEYwR0I2aVVoUU01eHZ3OFJFN1pkK0l1TkU4RWhXUXM2QW53aHhyeHdUZEVIbytpRnZDQ2tmMkwxbFdwVTB3NGhJUFBuUU5MZi93MEMzb3pzTlJEWjN5QmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NDIxNjA3CWZpbGU6dGF1cmktYXBwXzAuMS45X3g2NC1zZXR1cC5leGUKemo2WVVZTG1CcWRXUWtSdUtWRjFtam9YaU44TDR5TVhnQzZxTC9xZEV4SDM0QzROcXF6ekJ5SUZsR1VsdHhqdmFNUHJDV0tydERKTjNKb1U5bk9RQ0E9PQo=",
-      "url": "https://yuanyunge.github.io/tauri/releases/download/0.1.9/tauri-app_0.1.9_x64-setup.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYmVaNkRqMXVZRVVJSkVhMEh4OWYzNDUyc0JTcThDTklPbGJMMTJHblNQNGMvK0xzMUJqZWtWazNQTFljaUNaVFd6ZFcyb0ZuQVFWdXFQSmwrTUMycTFDdHhBTVJEMHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NDI5MzcxCWZpbGU6dGF1cmktYXBwXzAuMC4yX3g2NF9lbi1VUy5tc2kKNVlCVE9Qd2p0QXpEeXRsYTk4bEV1Q2xnQXh4WjNYNUVDZS84Q2xXV3NNSjlaVUJDMzhPdHBWZmJHK2hNMjB2dUNSckp4RWFNTXFoZEpzYWM2bytPQVE9PQo=",
+      "url": "https://imgacstatic.hong-ci.cn/tauri/releases/download/tauri-app_0.0.2_x64_en-US.zip"
     }
   }
 }
