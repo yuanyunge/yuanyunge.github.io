@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "notes": "this is a test",
-  "pub_date": "2024-10-10T15:52:32.274Z",
+  "pub_date": "2024-10-10T16:45:32.274Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbHF5NFpkeHExL2pYQkh6OXN2SW9SbDh1cURTUk16SFEyWFh6N2QyZnE5LzN3K3hjWG4veU9BbHZ4ZVozNUo1Q3YyTGpNVXAwTzF2Ymw4dXl1VmFudXBSbjdDeVJqN1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NTQ2NzEwCWZpbGU6dGF1cmktdXBkYXRlXzAuMi4wX3g2NF96aC1DTi5tc2kKc2FyV0ZZaUNsY3NwdklIWjBpWXV4aEErOEFJTFFKbGpmMk5zalZTWElsZWFUU3ZIRDdmTXk2cVM2ZFZtWDFpYUR5NjJzMW14eGxXLzNBTXYvRW5ZQUE9PQo=",
-      "url": "https://yuanyunge.github.io/tauri-update/release/tauri-update_0.2.0_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbHF5NFpkeHExL3JGSkxUK3hndXYvU2xTeXFXRkF4bS85ZUR4dEFWU1hGcThYRXNqeFVHY3k2ZFJRcjdVdkQyMUtWQ09ZUW9iYjF0NUxPV0VZVEFmUzlRRVh1Wkl0UGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NTQ5ODgyCWZpbGU6dGF1cmktdXBkYXRlXzAuMy4wX3g2NF96aC1DTi5tc2kKdDl3U1BCc3A5S1NhVVN0dXA1Ymw3VncyMS9hM3Q2VnJnWU5oWnE0SFN6YkNDMit5d2pOa0o4NGVRQ2lpenN6UVI1NCtKa3VYVE1iSW5CVHpSUnduQmc9PQo=",
+      "url": "https://yuanyunge.github.io/tauri-update/release/tauri-update_0.3.0_x64_zh-CN.msi"
     }
   }
 }
