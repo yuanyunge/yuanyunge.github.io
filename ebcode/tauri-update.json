@@ -1,11 +1,11 @@
 {
-  "version": "0.6.2",
+  "version": "0.6.3",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2024-10-10T15:16:29.447Z",
+  "pub_date": "2024-10-10T15:18:29.447Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQVBCdHgrMEtzeGFYY2hNd1U5RTB5TmJ6UmRTTDUyeEd0dWpkeE4yQU1UZHR2M2YzelNLcHRKMGF3V3hpRVhsZTlXNDBDbjliQzBPcVcva0d1eWdRRlpDYldVMU9sOXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NTQ0ODA4CWZpbGU6ZWJjb2Rld2FkZV8wLjYuMl94NjRfemgtQ04ubXNpLnppcApKVTU5eXhiU3hQRnc3VVgxZ0RNUFA5dXhqQkhYZGZkTTZaM3dMN2Nnd2hKczB3emtNZDh2WVB4TktqOVJObzd2M3NrSnYvTXZQeVlsbkZsV3FSVmZEUT09Cg==",
-      "url": "https://yuanyunge.github.io/ebcode/release/ebcodewade_0.6.2_x64_zh-CN.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQVBCdHgrMEtzeFMzcTRyb0t3VWVXM3VhbXhKaWIxc2s5a09hdjF5T29MeTU0cnp1OUlteUJIQnhKWXIrYUwxSFBoVE5IaUozcHQxdElNYlpXSFVDM0ZxRlRtZWhVcVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NTQ1MjQ4CWZpbGU6ZWJjb2Rld2FkZV8wLjYuM194NjRfemgtQ04ubXNpLnppcApQVDFKM2pFZWYwUkxqUmYvbC8wRlkrcFh4NFlEbWRRV3N4YW1pbk1DZWZyUUtmY0JHclp5QnNRL01mb2lBMDlpYTZxWStZc2JEQTN5blZOQllUZ2lEQT09Cg==",
+      "url": "https://yuanyunge.github.io/ebcode/release/ebcodewade_0.6.3_x64_zh-CN.msi.zip"
     }
   }
 }
