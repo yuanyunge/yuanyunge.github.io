@@ -1,0 +1,11 @@
+{
+  "version": "0.6.2",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2024-10-10T15:16:29.447Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQVBCdHgrMEtzeGFYY2hNd1U5RTB5TmJ6UmRTTDUyeEd0dWpkeE4yQU1UZHR2M2YzelNLcHRKMGF3V3hpRVhsZTlXNDBDbjliQzBPcVcva0d1eWdRRlpDYldVMU9sOXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NTQ0ODA4CWZpbGU6ZWJjb2Rld2FkZV8wLjYuMl94NjRfemgtQ04ubXNpLnppcApKVTU5eXhiU3hQRnc3VVgxZ0RNUFA5dXhqQkhYZGZkTTZaM3dMN2Nnd2hKczB3emtNZDh2WVB4TktqOVJObzd2M3NrSnYvTXZQeVlsbkZsV3FSVmZEUT09Cg==",
+      "url": "https://yuanyunge.github.io/ebcode/release/ebcodewade_0.6.2_x64_zh-CN.msi.zip"
+    }
+  }
+}
