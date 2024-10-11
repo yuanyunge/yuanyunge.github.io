@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "notes": "new version",
   "pub_date": "2024-10-11T15:20:32.274Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbVR6ZDUzYlZkREZreFl2a1c5VExFMU5XclYyN2hpazJxQjN1TUc1RGRlZWthSnpNL2ozZHl2NmdXeGVLNis3NVVJZi9NeXlJWWNDVkYwOHh2ZEhmR21zdTVJRjhLSXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NjMxMTc1CWZpbGU6TnV4dG9yXzEuMC4wX3g2NF96aC1DTi5tc2kKOWVTQU9lckEyY3Q3ZW9OR2xiYlliMS8xQ3ROdGtjUUI2eWsrR2lxUGhwcTgrd2tpN3BvMlFyN2VxdXFsY0ovVEVIZm5uYU50T09neFdpUVJJL3luQ0E9PQo=",
-      "url": "https://yuanyunge.github.io/releases/Nuxtor_1.0.0_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbVR6ZDUzYlZkRERTVk9GdGpzYjBwQUkwQ3JlRmZqcWY0VTdBRUxBQlIwcCtLbnVmU3lhSkdUNUFla2FqaU8zdFA3dkhUemhoL3NSN2ZXZWdkakxKZ0hTby9FMzFLaGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NjMxNTI4CWZpbGU6TnV4dG9yXzEuMC4xX3g2NF96aC1DTi5tc2kKVWl4SmJ0cXo1ZHk5WUhZYzh6MzZaL05wSnFLc1VwRms2NlRKN292N1hjUXY3d204dmZQT0QvakRwR25LOW5tckUwSkp1azFDNXFVQ1pKS2RiRTlDQXc9PQo=",
+      "url": "https://yuanyunge.github.io/releases/Nuxtor_1.0.1_x64_zh-CN.msi"
     }
   }
 }
