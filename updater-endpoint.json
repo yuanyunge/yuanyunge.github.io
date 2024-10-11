@@ -1,10 +1,10 @@
 {
-  "version": "0.2.0",
-  "notes": "Test version",
-  "pub_date": "2024-10-10T16:57:32.274Z",
+  "version": "0.1.0",
+  "notes": "Online version",
+  "pub_date": "2024-10-11T12:23:32.274Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdXNpSWNlb290alhMUmJVSlI0SlgrR1N5Z2p4ZEpldUNoUldCZjQxc2NNQlovNWZIbTA0ZXdSUGM4VzYraGFBN3FDc0tVYmQ5UHhDcVVWellSSkhlaUxjdyt6T0FybUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NTUwNjc3CWZpbGU6bnV4dG9yLXRhdXJpXzAuMi4wX3g2NF96aC1DTi5tc2kKYTRwbmUzVXVvQVlIQkxsYjQ3NUJzcGkyWGRVRHFSM2pjZnB6d3BWbkdtM3pqUy8zdXBndmRMK0tzZmllZWg0MlZqQzFDcnQ4MUhPNHBwVWpsVGp6Qmc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdytJZnU1VUNLMEV3R3Zqay80WWV0VmYwZVNmZ3hrUk52WnVNbW5nMk5Ka1g3WkdoVktySW5sQ3BtSHFtKzJDOENiM2FMNVJlUy84NzdqN0ZzWkJ1SnZjbmdrSk51Z0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NjIwNTgwCWZpbGU6bnV4dG9yLXRhdXJpXzAuMS4wX3g2NF96aC1DTi5tc2kKV0MxMTlHOFM4bmNlNEcrTG5kdGlvZXM1dXVxZUF1R3l3SVdUcjJ3T1FTRmNiZk9vMGFsQ0JFanNZbEdMZGZvNEVHN2JEdkNpbksrZnF6UlVKWGpmREE9PQo=",
       "url": "https://yuanyunge.github.io/releases/nuxtor-tauri_0.2.0_x64_zh-CN.msi"
     }
   }
